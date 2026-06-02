@@ -12,23 +12,29 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 
 # Programs
 
-- Hello World
-- Input from User
-- Arithmetic Operations
-- Check Number Even or Odd
-- Swap Two Numbers
-- Area of Circle
-- Convert Kilometers to Meters
-- Average of Three Numbers
-- Simple Interest
+1. Hello World
+2. Input from User
+3. Arithmetic Operations
+4. Check Number Even or Odd
+5. Swap Two Numbers
+6. Area of Circle
+7. Convert Kilometers to Meters
+8. Average of Three Numbers
+9. Simple Interest
 
-  
 # Day 2 - Operators & Conditional Statements
-
-# Topics Covered
+- What are Operators?
+- Types of Operators in Python
+- What is a Conditional Statement?
+- Types of Conditional Statements
+- What is an if Statement?
+- What is if-else Statement?
+- What is if-elif-else Statement?
+- What is Nested if-else Statement?
+- Difference between if and if-else
+- Comparison vs Logical Operators
 
 # Operators in Python
-
 * Arithmetic Operators (`+`, `-`, `*`, `/`, `%`, `//`, `**`)
 * Assignment Operators (`=`, `+=`, `-=`, `*=`, `/=`, `%=` , `//=`, `**=`)
 * Comparison Operators (`<`, `>`, `<=`, `>=`, `==`, `!=`)
@@ -43,13 +49,10 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 * if-else Statement
 * if-elif-else Statement
 * Nested if-else Statement
-
----
-
+  
 # Programs Completed
 
 # Operators
-
 1. arithmetic_operators.py
 2. assignment_operators.py
 3. comparison_operators.py
@@ -58,8 +61,7 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 6. identity_operators.py
 7. bitwise_operators.py
 
-# Conditional Statements
-
+# Conditional Statements Programs
 1. Check Positive or Negative Number
 2. Check Even or Odd Number
 3. Check Voting Eligibility
