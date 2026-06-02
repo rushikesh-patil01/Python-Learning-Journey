@@ -1,0 +1,34 @@
+'''
+3- Comparsion Operators  (<,>,<=,>=,==,!=)
+    To campare between values
+'''
+# Always give result in True or False
+# 1- Greater than (>)
+a=5
+b=3
+print(a>b)
+
+# 2- Less than (<)
+a=2
+b=3
+print(a<b)
+
+# 3- Equal to (==)
+a=2
+b=2
+print(a==b)
+
+# 4- Not Equal to (!=)
+a=12
+b=2
+print(a!=b)
+
+# 5- Greater Than Equal to (>=)
+a=12
+b=12
+print(a>=b)
+
+# 6- Less Than Equal to (<=)
+a=12
+b=12
+print(a<=b)
