@@ -86,3 +86,59 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 
 ## Outcome
 Successfully learned Operators and Conditional Statements in Python and solved multiple practical programs using decision-making logic.
+
+# Day 3 - Loops in Python
+
+# Topics Covered
+* for Loop
+* while Loop
+* range() Function
+* Loop Control Statements
+  * break
+  * continue
+  * pass
+# Questions Covered
+* What are loops?
+* Types of loops in Python
+* What is a for loop?
+* What is a while loop?
+* Difference between for loop and while loop
+* What is range() function?
+* What are the parameters of range()?
+* What is an infinite loop?
+* What is break statement?
+* What is continue statement?
+* What is pass statement?
+* What is a nested loop?
+
+# Programs Practiced
+# For Loop Programs
+1. Print Numbers from 1 to 5
+2. Print Even Numbers from 1 to 10
+3. Print Odd Numbers from 1 to 10
+4. Print Numbers from 10 to 1
+5. Print "Clap" 5 Times
+6. Multiplication Table of a Number
+7. Sum of First N Numbers
+
+# While Loop Programs
+8. Print Numbers from 1 to 5
+9. Eat Chocolates While Available
+10. Print Numbers from 5 to 1
+11. Print Even Numbers from 1 to 10
+12. Print Odd Numbers from 1 to 10
+13. Sum of First N Natural Numbers
+
+# Additional Loop Programs
+14. Factorial of a Number
+15. Fibonacci Series
+16. Prime Number Check
+17. Reverse a String
+
+# Loop Control Statements
+18. break Statement Example
+19. continue Statement Example
+20. pass Statement Example
+
+# Outcome
+Successfully learned the fundamentals of loops in Python and solved common programming problems using for loops and while loops.
