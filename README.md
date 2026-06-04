@@ -140,5 +140,67 @@ Successfully learned Operators and Conditional Statements in Python and solved m
 19. continue Statement Example
 20. pass Statement Example
 
-# Outcome
+# Outcome   
 Successfully learned the fundamentals of loops in Python and solved common programming problems using for loops and while loops.
+
+# Day 4 - Strings in Python
+
+# Topics Covered
+* What is a String?
+* String Creation
+* String Indexing
+* String Slicing
+* String Length
+* String Methods
+* String Concatenation
+* String Traversal
+* String Immutability
+
+# Questions Covered
+1. What is a String in Python?
+2. Is String Mutable or Immutable?
+3. What is String Indexing?
+4. What is String Slicing?
+5. Difference Between Indexing and Slicing
+6. What is len() Function?
+7. What are String Methods?
+8. What is String Concatenation?
+9. What is String Traversal?
+10. How to Reverse a String?
+11. How to Check a Palindrome String?
+
+# Programs Practiced
+
+# Basic String Programs
+* Create and Print a String
+* Take String Input from User
+* Print String using Single and Double Quotes
+* String Indexing
+* String Slicing
+* Find Length of a String
+
+# String Methods
+* Convert String to Uppercase
+* Convert String to Lowercase
+* Replace a Word in a String
+* Count Character Occurrences
+
+# Problem-Solving Programs
+* Reverse a String using Slicing
+* Reverse a String using Loop
+* Check Palindrome String
+* Count Vowels in a String
+* Count Consonants in a String
+* Count Words in a Sentence
+
+# Key Learnings
+* Access characters using indexing.
+* Extract substrings using slicing.
+* Use built-in string methods.
+* Reverse strings using slicing and loops.
+* Check palindrome strings.
+* Count vowels, consonants, and words.
+* Solve basic string-based interview problems.
+
+# Outcome
+Successfully learned Python Strings, including indexing, slicing, string methods, traversal, and common interview-oriented string programs.
