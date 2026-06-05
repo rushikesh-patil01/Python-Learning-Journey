@@ -204,3 +204,73 @@ Successfully learned the fundamentals of loops in Python and solved common progr
 
 # Outcome
 Successfully learned Python Strings, including indexing, slicing, string methods, traversal, and common interview-oriented string programs.
+
+# Day 5 - Lists in Python
+
+# Topics Covered
+* What is a List?
+* List Creation
+* List Indexing
+* List Slicing
+* List Length
+* List Traversal
+* List Methods
+* List Updating
+* List Searching
+
+# Questions Covered
+1. What is a List in Python?
+2. Is List Mutable or Immutable?
+3. What is List Indexing?
+4. What is List Slicing?
+5. Difference Between Indexing and Slicing
+6. What is List Traversal?
+7. What are List Methods?
+8. Difference Between append() and insert()
+9. Difference Between remove() and pop()
+10. How to find the length of a list?
+
+# Programs Practiced
+# Basic List Programs
+
+* Create and Print a List
+* List Indexing and Slicing
+* Find Length of a List
+* Traverse a List using Loop
+* Update a List Element
+
+# List Methods
+
+* append()
+* insert()
+* remove()
+* pop()
+* sort()
+* reverse()
+* count()
+* index()
+
+# Problem-Solving Programs
+
+* Search an Element in a List
+* Find Sum of List Elements
+* Find Maximum and Minimum Elements
+* Count Even and Odd Numbers
+
+# Mini Projects
+* Student Marks Manager
+* Attendance Tracker
+
+# Key Learnings
+* Create and modify lists.
+* Access elements using indexing and slicing.
+* Traverse lists using loops.
+* Use common list methods.
+* Search elements in a list.
+* Find sum, maximum, and minimum values.
+* Count even and odd numbers.
+* Build simple list-based mini projects.
+
+
+# Outcome
+Successfully learned Python Lists, including indexing, slicing, traversal, list methods, and interview-oriented problem-solving programs.
