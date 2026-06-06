@@ -274,3 +274,86 @@ Successfully learned Python Strings, including indexing, slicing, string methods
 
 # Outcome
 Successfully learned Python Lists, including indexing, slicing, traversal, list methods, and interview-oriented problem-solving programs.
+
+# Day 6 - Tuple, Set and Dictionary in Python
+
+# Topics Covered
+
+# Tuple
+* Tuple Creation
+* Tuple Indexing
+* Tuple Methods
+* Tuple Packing
+* Tuple Unpacking
+
+# Set
+* Set Creation
+* Set Methods
+* Union Operation
+* Intersection Operation
+* Unique Elements
+
+# Dictionary
+* Dictionary Creation
+* Key-Value Pairs
+* Accessing Values
+* Updating Values
+* Dictionary Methods
+
+# Questions Covered
+
+# Tuple
+1. What is a Tuple in Python?
+2. Is Tuple Mutable or Immutable?
+3. What is Tuple Indexing?
+4. What are Tuple Methods?
+5. What is Tuple Packing and Unpacking?
+
+# Set
+6. What is a Set in Python?
+7. Why are Sets Used?
+8. What are Set Methods?
+9. What is Union in Set?
+10. What is Intersection in Set?
+
+# Dictionary
+11. What is a Dictionary in Python?
+12. Is Dictionary Mutable or Immutable?
+13. What are Dictionary Methods?
+14. Difference Between List, Tuple, Set and Dictionary?
+
+
+# Programs Practiced
+
+# Tuple Programs
+* Create and Print a Tuple
+* Tuple Indexing
+* Tuple Methods 
+* Tuple Packing
+* Tuple Unpacking
+
+# Set Programs
+* Create a Set
+* Add Elements using 
+* Remove Elements using 
+* Union of Two Sets
+* Intersection of Two Sets
+
+# Dictionary Programs
+* Create a Dictionary
+* Access Dictionary Values
+* Update Dictionary Values
+* Display Keys and Values
+* Dictionary Methods
+
+# Key Learnings
+* Understood immutable data structures using Tuples.
+* Learned unique data storage using Sets.
+* Performed Union and Intersection operations.
+* Worked with Dictionary key-value pairs.
+* Accessed, updated, and managed dictionary data.
+* Compared List, Tuple, Set, and Dictionary.
+
+# Outcome
+Learned Python Tuples, Sets, and Dictionaries with practical examples and programs. Improved understanding of data structures, their methods, and real-world usage while solving interview-oriented questions.
+
