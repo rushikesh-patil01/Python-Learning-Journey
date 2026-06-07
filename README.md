@@ -357,3 +357,67 @@ Successfully learned Python Lists, including indexing, slicing, traversal, list 
 # Outcome
 Learned Python Tuples, Sets, and Dictionaries with practical examples and programs. Improved understanding of data structures, their methods, and real-world usage while solving interview-oriented questions.
 
+# Day 7 - Functions in Python
+
+# Topics Covered
+
+# Functions Basics
+* Function Creation
+* Function Calling
+* Function Definition
+* Function Arguments
+* Default Arguments
+* Return Statement
+* Lambda Function
+
+# Types of Functions
+* Non-Parameterized Functions
+* Parameterized Functions
+* Return Type Functions
+* Non-Return Type Functions
+
+# Questions Covered
+1. What is a Function in Python?
+2. Why Do We Use Functions?
+3. What is Function Definition?
+4. What is Function Calling?
+5. What are Function Arguments?
+6. What are Default Arguments?
+7. What is a Return Statement?
+8. Difference Between print() and return()
+9. Return Type vs Non-Return Type Functions
+10. What is a Lambda Function?
+
+# Programs Practiced
+# Basic Functions
+* Create a Function
+* Function Calling
+* Non-Parameterized Function
+* Parameterized Function
+
+# Function Programs
+* Addition using Function
+* Even/Odd Checker
+* Positive/Negative Checker
+* Square of a Number
+* Cube of a Number
+* Multiplication Table using Function
+* Factorial using Function
+* Simple Calculator using Functions
+
+# Lambda Function
+* Square using Lambda Function
+* Addition using Lambda Function
+
+# Key Learnings
+* Created reusable functions using. `def`
+* Passed arguments to functions.
+* Used default arguments.
+* Learned return statements.
+* Understood parameterized and non-parameterized functions.
+* Built programs using functions.
+* Used lambda functions for one-line operations.
+
+# Outcome
+Successfully learned Python Functions, including function creation, function calling, arguments, return statements, and lambda functions. Practiced multiple programs to improve problem-solving skills and understand code reusability.
+
