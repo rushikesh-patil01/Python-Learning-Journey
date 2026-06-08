@@ -421,3 +421,83 @@ Learned Python Tuples, Sets, and Dictionaries with practical examples and progra
 # Outcome
 Successfully learned Python Functions, including function creation, function calling, arguments, return statements, and lambda functions. Practiced multiple programs to improve problem-solving skills and understand code reusability.
 
+
+# Day 8 - Advanced Python Concepts
+
+# Topics Covered
+# Higher Order Functions
+- Function as Argument
+- Function as Return Value
+- map()
+- filter()
+- reduce()
+- sorted() with key
+
+# Built-in Functions
+- enumerate()
+- zip()
+- eval()
+
+# Scope in Python
+- Local Scope
+- Global Scope
+- Enclosing Scope
+- Built-in Scope
+- LEGB Rule
+- global Keyword
+- nonlocal Keyword
+
+# Recursion
+- Recursive Functions
+- Base Case
+- Recursive Call
+
+# Advanced Concepts
+- Iterator
+- Generator
+- Decorator
+
+
+# Questions Covered
+1. What is a Higher Order Function?
+2. What are Built-in Higher Order Functions?
+3. Why are Higher Order Functions Useful?
+4. What is enumerate()?
+5. What is zip()?
+6. What is eval()?
+7. What is Scope in Python?
+8. What are the Types of Scope in Python?
+9. What are global and nonlocal Keywords?
+10. What is Recursion?
+11. What is an Iterator?
+12. What is a Generator?
+13. What is a Decorator?
+
+
+# Programs Practiced
+- Higher Order Function Example
+- map() Function
+- filter() Function
+- reduce() Function
+- sorted() Function
+- enumerate() Function
+- zip() Function
+- eval() Function
+- Scope Demonstration
+- Recursion Example
+- Iterator Example
+- Generator Example
+- Decorator Example
+
+# Key Learnings
+- Learned how Higher Order Functions work.
+- Applied map(), filter(), and reduce() for data processing.
+- Used enumerate() and zip() for cleaner loops.
+- Understood Python Scope and LEGB Rule.
+- Learned recursive problem solving.
+- Explored Iterators and Generators for efficient memory usage.
+- Implemented Decorators to extend function behavior.
+
+# Outcome
+Successfully learned advanced Python concepts including Higher Order Functions, Scope, Recursion, Iterators, Generators, and Decorators. Improved understanding of functional programming and Python internals while solving practical coding examples.
+
