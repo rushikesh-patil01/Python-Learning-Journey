@@ -501,3 +501,65 @@ Successfully learned Python Functions, including function creation, function cal
 # Outcome
 Successfully learned advanced Python concepts including Higher Order Functions, Scope, Recursion, Iterators, Generators, and Decorators. Improved understanding of functional programming and Python internals while solving practical coding examples.
 
+# Day 9 - Exception Handling in Python
+
+# Topics Covered
+# Exception Handling Basics
+* What is Exception Handling?
+* Why Do We Use Exception Handling?
+* Exception Hierarchy
+* Common Python Exceptions
+
+# Exception Handling Techniques
+* try
+* except
+* else
+* finally
+* raise
+
+# Questions Covered
+1. What is Exception Handling?
+2. Why Do We Use Exception Handling?
+3. What is Exception Hierarchy?
+4. What are Techniques in Exception Handling?
+5. What is a try Block?
+6. What is an except Block?
+7. What is an else Block?
+8. What is a finally Block?
+9. What is the raise Keyword?
+10. What are the Main Keywords Used in Exception Handling?
+11. What are Common Python Exceptions?
+12. What is ZeroDivisionError?
+13. What is ValueError?
+14. What is FileNotFoundError?
+15. What is a Custom Exception?
+16. Which Block Always Executes?
+17. Which Block Runs Only If No Exception Occurs?
+18. Which Keyword is Used to Create an Exception Manually?
+
+# Programs Practiced
+
+* Handle ZeroDivisionError using try-except
+* Handle Multiple Exceptions
+* Demonstrate else Block
+* Demonstrate finally Block
+* Use raise Keyword
+* Divide by Zero Handling
+* Handle FileNotFoundError
+* Handle Invalid User Input
+* Create Custom Exception
+
+# Key Learnings
+* Learned how runtime errors occur in Python.
+* Used try-except blocks to prevent program crashes.
+* Implemented else and finally blocks.
+* Used raise keyword to generate exceptions manually.
+* Created custom exceptions.
+* Understood Exception Hierarchy.
+* Handled common exceptions such as ZeroDivisionError, ValueError, and FileNotFoundError.
+* Improved program reliability through proper error handling.
+
+# Outcome
+Successfully learned Exception Handling in Python using try, except, else, finally, and raise. Understood Exception Hierarchy, handled common runtime errors, created custom exceptions, and improved program reliability by preventing unexpected program crashes.
+
+
