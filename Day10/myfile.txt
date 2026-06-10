@@ -1,0 +1,3 @@
+My name is Rushikesh!
+ Welcome 
+This line is added using context manager.
