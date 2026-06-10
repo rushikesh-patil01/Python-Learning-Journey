@@ -22,6 +22,7 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 8. Average of Three Numbers
 9. Simple Interest
 
+# ----------------------------------------------------------------------------------------------
 # Day 2 - Operators & Conditional Statements
 - What are Operators?
 - Types of Operators in Python
@@ -87,6 +88,7 @@ Daily Python learning notes, interview questions, coding exercises, and projects
 ## Outcome
 Successfully learned Operators and Conditional Statements in Python and solved multiple practical programs using decision-making logic.
 
+# ----------------------------------------------------------------------------------------------
 # Day 3 - Loops in Python
 
 # Topics Covered
@@ -143,6 +145,7 @@ Successfully learned Operators and Conditional Statements in Python and solved m
 # Outcome   
 Successfully learned the fundamentals of loops in Python and solved common programming problems using for loops and while loops.
 
+# ----------------------------------------------------------------------------------------------
 # Day 4 - Strings in Python
 
 # Topics Covered
@@ -205,6 +208,7 @@ Successfully learned the fundamentals of loops in Python and solved common progr
 # Outcome
 Successfully learned Python Strings, including indexing, slicing, string methods, traversal, and common interview-oriented string programs.
 
+# ----------------------------------------------------------------------------------------------
 # Day 5 - Lists in Python
 
 # Topics Covered
@@ -275,6 +279,7 @@ Successfully learned Python Strings, including indexing, slicing, string methods
 # Outcome
 Successfully learned Python Lists, including indexing, slicing, traversal, list methods, and interview-oriented problem-solving programs.
 
+# ----------------------------------------------------------------------------------------------
 # Day 6 - Tuple, Set and Dictionary in Python
 
 # Topics Covered
@@ -357,6 +362,7 @@ Successfully learned Python Lists, including indexing, slicing, traversal, list 
 # Outcome
 Learned Python Tuples, Sets, and Dictionaries with practical examples and programs. Improved understanding of data structures, their methods, and real-world usage while solving interview-oriented questions.
 
+# ----------------------------------------------------------------------------------------------
 # Day 7 - Functions in Python
 
 # Topics Covered
@@ -421,7 +427,7 @@ Learned Python Tuples, Sets, and Dictionaries with practical examples and progra
 # Outcome
 Successfully learned Python Functions, including function creation, function calling, arguments, return statements, and lambda functions. Practiced multiple programs to improve problem-solving skills and understand code reusability.
 
-
+# ----------------------------------------------------------------------------------------------
 # Day 8 - Advanced Python Concepts
 
 # Topics Covered
@@ -501,6 +507,7 @@ Successfully learned Python Functions, including function creation, function cal
 # Outcome
 Successfully learned advanced Python concepts including Higher Order Functions, Scope, Recursion, Iterators, Generators, and Decorators. Improved understanding of functional programming and Python internals while solving practical coding examples.
 
+# ----------------------------------------------------------------------------------------------
 # Day 9 - Exception Handling in Python
 
 # Topics Covered
@@ -561,5 +568,82 @@ Successfully learned advanced Python concepts including Higher Order Functions, 
 
 # Outcome
 Successfully learned Exception Handling in Python using try, except, else, finally, and raise. Understood Exception Hierarchy, handled common runtime errors, created custom exceptions, and improved program reliability by preventing unexpected program crashes.
+
+# ----------------------------------------------------------------------------------------------
+# Day 10 - File Handling in Python
+
+# Topics Covered
+# File Basics
+* What is a File?
+* What is File Handling?
+* Why Do We Use File Handling?
+
+# File Modes
+* Read Mode (r)
+* Write Mode (w)
+* Append Mode (a)
+* Create Mode (x)
+* Read + Write Mode (r+)
+* Binary Mode (b)
+
+# File Operations
+* Create a File
+* Read a File
+* Write Data into a File
+* Append Data into a File
+* Insert Data into a File
+* Remove Data from a File
+
+# File Reading Methods
+* read()
+* readline()
+* readlines()
+
+# Context Manager
+* with open()
+
+
+# Questions Covered
+1. What is File Handling?
+2. Why File Handling?
+3. Why Do We Use File Handling?
+4. What are File Modes in Python?
+5. What is open() Function?
+6. How to Insert Data into a File?
+7. How to Remove Data from a File?
+8. What is Context Manager (with keyword)?
+9. What is Create Mode (x)?
+10. What is Write Mode (w)?
+11. What is Read Mode (r)?
+12. What are File Reading Methods?
+13. What is Append Mode (a)?
+
+
+# Programs Practiced
+* Create a File
+* Read a File
+* Read a Single Line using readline()
+* Read Multiple Lines using readlines()
+* Write Data into a File
+* Append Data into a File
+* Insert Data into a File
+* Remove Data from a File
+* Use Context Manager (with open)
+* Handle File Not Found Error
+
+# Key Learnings
+* Learned how files store data permanently.
+* Used different file modes such as r, w, a, x, and r+.
+* Created, read, and updated text files.
+* Performed insert and remove operations on file content.
+* Used read(), readline(), and readlines() methods.
+* Implemented Context Manager using with open().
+* Understood automatic file closing and resource management.
+* Practiced real-world file handling operations.
+
+# Outcome
+Successfully learned File Handling in Python using open(), read(), write(), append(), insert, remove, and Context Manager. Practiced file operations and understood how to store and manage data permanently using files.
+
+# ----------------------------------------------------------------------------------------------
 
 
