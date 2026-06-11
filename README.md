@@ -645,5 +645,73 @@ Successfully learned Exception Handling in Python using try, except, else, final
 Successfully learned File Handling in Python using open(), read(), write(), append(), insert, remove, and Context Manager. Practiced file operations and understood how to store and manage data permanently using files.
 
 # ----------------------------------------------------------------------------------------------
+# Day 11 - Inheritance in Python (OOP)
+
+# Topics Covered
+# Introduction to Inheritance
+
+* What is Inheritance?
+* Why Do We Use Inheritance?
+* Parent Class (Base Class)
+* Child Class (Derived Class)
+
+# Types of Inheritance
+1. Single Inheritance
+2. Multiple Inheritance
+3. Multilevel Inheritance
+4. Hierarchical Inheritance
+5. Hybrid Inheritance
+
+# Additional Concepts
+* Constructor Inheritance
+* Code Reusability
+* Class Hierarchy
+* Real-World Examples of Inheritance
+
+# Questions Covered
+1. What is Inheritance?
+2. Why Inheritance is Used?
+3. What is a Parent Class?
+4. What is a Child Class?
+5. What are the Types of Inheritance in Python?
+6. What is Single Inheritance?
+7. What is Multiple Inheritance?
+8. What is Multilevel Inheritance?
+9. What is Hierarchical Inheritance?
+10. What is Hybrid Inheritance?
+11. What is Constructor Inheritance?
+12. What are the Advantages of Inheritance?
+13. Difference Between Parent Class and Child Class?
+
+
+# Programs Practiced
+* Single Inheritance
+* Multiple Inheritance
+* Multilevel Inheritance
+* Hierarchical Inheritance
+* Hybrid Inheritance
+* Constructor Inheritance
+* Using Parent and Child Classes
+
+# Key Learnings
+* Understood the concept of Inheritance in Object-Oriented Programming.
+* Learned how Child Classes inherit properties and methods from Parent Classes.
+* Explored all major types of Inheritance in Python.
+* Implemented Single, Multiple, Multilevel, Hierarchical, and Hybrid Inheritance.
+* Learned Constructor Inheritance and the use of `super()` function.
+* Improved code reusability and program organization using OOP concepts.
+
+# Interview Highlights
+* Inheritance provides code reusability.
+* Parent Class is also called Base Class or Super Class.
+* Child Class is also called Derived Class or Sub Class.
+* Python supports Multiple Inheritance.
+* `super()` is used to access Parent Class methods and constructors.
+
+# Outcome
+
+Successfully learned Inheritance in Python including Parent Class, Child Class, Single Inheritance, Multiple Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance, Constructor Inheritance, and `super()` function. Built a strong foundation in Object-Oriented Programming and code reusability concepts.
+
+# ---------------------------------------------------------------------------------------------------------------
 
 
