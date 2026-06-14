@@ -715,4 +715,69 @@ Successfully learned Inheritance in Python including Parent Class, Child Class, 
 # ---------------------------------------------------------------------------------------------------------------
 # Day 12 - Polymorphism in Python (OOP)
 
+# Topics Covered
+# Introduction to Polymorphism
+
+* Definition of Polymorphism
+* Why We Use Polymorphism
+* Types of Polymorphism
+
+# Compile-Time Polymorphism
+
+* Method Overloading
+* Default Arguments
+* Variable Length Arguments (*args)
+
+# Runtime Polymorphism
+
+* Method Overriding
+* Inheritance-based Polymorphism
+
+# Advanced Concepts
+
+* Duck Typing
+* Operator Overloading
+* Method Resolution Order (MRO)
+* Dynamic Binding
+
+
+# Questions Covered
+1. What is Polymorphism?
+2. Why Do We Use Polymorphism?
+3. What are the Types of Polymorphism?
+4. Does Python Support Method Overloading?
+5. What is Runtime Polymorphism?
+6. What is Compile-Time Polymorphism?
+7. Difference Between Overloading and Overriding?
+8. What is Duck Typing in Python?
+9. What is Operator Overloading?
+10. What is MRO (Method Resolution Order)?
+11. What are the Advantages of Polymorphism?
+12. What is Dynamic Binding?
+
+# Programs Practiced
+* Method Overloading using Default Arguments
+* Method Overriding using Inheritance
+* Animal Sound Example
+* Duck Typing Example
+* Operator Overloading Example
+* MRO Example
+
+# Key Learnings
+* Learned the concept of Polymorphism in Python.
+* Implemented Method Overloading using default arguments.
+* Implemented Runtime Polymorphism using Method Overriding.
+* Understood the difference between Overloading and Overriding.
+* Explored Duck Typing and Dynamic Binding.
+* Learned Operator Overloading using special methods.
+* Understood Method Resolution Order (MRO) in multiple inheritance.
+
+# Outcome
+
+Successfully learned Polymorphism in Python including Method Overloading, Method Overriding, Runtime Polymorphism, Compile-Time Polymorphism, Duck Typing, Operator Overloading, Dynamic Binding, and Method Resolution Order (MRO). Built a strong understanding of flexible and reusable Object-Oriented Programming concepts.
+
+# ---------------------------------------------------------------------------------------------------------------
+
+
+
 
