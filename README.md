@@ -777,7 +777,7 @@ Successfully learned Inheritance in Python including Parent Class, Child Class, 
 Successfully learned Polymorphism in Python including Method Overloading, Method Overriding, Runtime Polymorphism, Compile-Time Polymorphism, Duck Typing, Operator Overloading, Dynamic Binding, and Method Resolution Order (MRO). Built a strong understanding of flexible and reusable Object-Oriented Programming concepts.
 
 # ---------------------------------------------------------------------------------------------------------------
-
+# Day 13 - Encapsulation in Python
 
 
 
