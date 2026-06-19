@@ -779,5 +779,39 @@ Successfully learned Polymorphism in Python including Method Overloading, Method
 # ---------------------------------------------------------------------------------------------------------------
 # Day 13 - Encapsulation in Python
 
+# Topics Covered
+- Encapsulation in Python
+- Public Members
+- Protected Members
+- Private Members
+- Getter and Setter Methods
+- Data Hiding
+- Access Control
+
+# Questions Covered
+1. What is Encapsulation?
+2. Why Do We Use Encapsulation?
+3. Difference Between Public, Protected, and Private Members?
+4. What is a Public Member?
+5. What is a Protected Member?
+6. What is a Private Member?
+7. What are Getter and Setter Methods?
+8. What are the Advantages of Encapsulation?
+9. Can We Access Private Variables Outside the Class?
+
+
+# Programs Practiced
+- Public Member Example
+- Protected Member Example
+- Private Member Example
+- Getter and Setter Example
+
+# Summary
+
+Learned Encapsulation in Python by implementing Public, Protected, and Private members. Explored Getter and Setter methods to achieve data hiding and controlled access to class variables, improving code security, flexibility, and maintainability.
+
+# ---------------------------------------------------------------------------------------------------------------
+
+
 
 
