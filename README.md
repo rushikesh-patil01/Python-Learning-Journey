@@ -813,6 +813,14 @@ Learned Encapsulation in Python by implementing Public, Protected, and Private m
 # ---------------------------------------------------------------------------------
 # Day 14 - Abstraction in Python
 
+# Topics Covered
+* Introduction to Abstraction
+* Abstract Classes
+* Abstract Methods
+* ABC (Abstract Base Class) Module
+* @abstractmethod Decorator
+* Implementing Abstraction using Inheritance
+
 
 
 
